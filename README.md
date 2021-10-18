@@ -1,5 +1,5 @@
 # PandOs
-A working C-based operatin system running on uMPS3. Project for Operating Systems exam.
+A working C-based operating system running on uMPS3. Project for Operating Systems exam.
 
 ## Introduction
 PandOs is a multi-layer operating system implementing key function of a Unix base OS, running on a μMPS3 machine.
