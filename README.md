@@ -29,3 +29,5 @@ The Support Level - The Basics. Level 3 is extended to support a system that can
 8. Warning, you might modify the path in the Makefile adding '/local' after '/usr' level
 9. Turn on the emulator and press start button
 10. Test will ask you to provide a string for a string concatenate test in terminal 0
+
+--------------------------------------------------------------------------------------
