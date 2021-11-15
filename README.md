@@ -8,7 +8,7 @@ PandOs is a multi-layer operating system implementing key function of a Unix bas
 * C language programming
 * μMPS3 emulator (see http://wiki.virtualsquare.org/#!education/umps.md)
 
-## Pahse 1
+## Phase 1
 The Queues Manager. Based on the key operating systems concept that active entities at one layer are just data structures at lower layers, this layer supports the management of queues of structures: pcb’s and asl's.
 
 ## Phase 2
